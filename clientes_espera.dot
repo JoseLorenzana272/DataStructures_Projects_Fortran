@@ -1,0 +1,21 @@
+digraph G {
+    rankdir=LR;
+    node [shape=record];
+    node0 [label="
+ID: 1\\n
+Nombre: Andres Lopez v2\\n
+Imágenes grandes: 2\\n
+Imágenes pequeñas: 1"];
+    node1 [label="
+ID: 2\\n
+Nombre: Juan Perez\\n
+Imágenes grandes: 0\\n
+Imágenes pequeñas: 3"];
+    node0 -> node1;
+    node2 [label="
+ID: 3\\n
+Nombre: Luis Higueros\\n
+Imágenes grandes: 1\\n
+Imágenes pequeñas: 2"];
+    node1 -> node2;
+}

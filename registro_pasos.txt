@@ -1,0 +1,673 @@
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Raquel Gomez) asignado a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Laura Gutierz) asignado a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Luisa Lopez) asignado a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Raquel Gutierz) asignado a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Pablo Gomez) asignado a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Miguel Garcia) asignado a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Mario Ruiz) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Oscar Gutierz) asignado a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (David Fernan) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Ana Torres) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Ana Nunez) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Raquel Ruiz) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Marina Gutierz) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Pablo Paz) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Miguel Alonso) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Mario Diaz) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente           10  (Ruben Martin) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente           11  (David Silva) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO           12 ------
+ Cliente           12  (Elena Perez) asignado a la ventanilla            3
+ Imagen           12  agregada a la ventanilla            3
+ ------PASO           13 ------
+ Cliente           13  (Natalia Alonso) asignado a la ventanilla            1
+ Imagen           13  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Pedro Diaz) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Marina Gomez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Mario Garcia) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Carmen Gutierz) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Carlos Gutierz) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente            1  (Natalia Martin) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente            2  (Ruben Perez) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO           12 ------
+ Cliente            3  (Oscar Jimenez) asignado a la ventanilla            3
+ Imagen           12  agregada a la ventanilla            3
+ ------PASO           13 ------
+ Cliente            4  (Sergio Diaz) asignado a la ventanilla            1
+ Imagen           13  agregada a la ventanilla            1
+ ------PASO           14 ------
+ Cliente            5  (Luisa Garcia) asignado a la ventanilla            2
+ Imagen           14  agregada a la ventanilla            2
+ ------PASO           15 ------
+ Cliente            6  (Luisa Sanchez) asignado a la ventanilla            3
+ Imagen           15  agregada a la ventanilla            3
+ ------PASO           16 ------
+ Cliente            7  (Ruben Gomez) asignado a la ventanilla            1
+ Imagen           16  agregada a la ventanilla            1
+ ------PASO           17 ------
+ Cliente            8  (David Garcia) asignado a la ventanilla            2
+ Imagen           17  agregada a la ventanilla            2
+ ------PASO           18 ------
+ Cliente            9  (Andrea Torres) asignado a la ventanilla            3
+ Imagen           18  agregada a la ventanilla            3
+ ------PASO           19 ------
+ Cliente           10  (Mario Leon) asignado a la ventanilla            1
+ Imagen           19  agregada a la ventanilla            1
+ ------PASO           20 ------
+ Cliente           11  (Raquel Fernan) asignado a la ventanilla            2
+ Imagen           20  agregada a la ventanilla            2
+ ------PASO           21 ------
+ Cliente           12  (Pedro Jimenez) asignado a la ventanilla            3
+ Imagen           21  agregada a la ventanilla            3
+ ------PASO           22 ------
+ Cliente           13  (Natalia Jimenez) asignado a la ventanilla            1
+ Imagen           22  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Natalia Gomez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Pedro Diaz) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Raquel Martin) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Oscar Molina) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Javier Martin) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente           10  (Marina Silva) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente           11  (Elena Perez) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO           12 ------
+ Cliente           12  (Javier Nunez) asignado a la ventanilla            3
+ Imagen           12  agregada a la ventanilla            3
+ ------PASO           13 ------
+ Cliente           13  (Andrea Ruiz) asignado a la ventanilla            1
+ Imagen           13  agregada a la ventanilla            1
+ ------PASO           14 ------
+ Cliente           14  (Mario Diaz) asignado a la ventanilla            2
+ Imagen           14  agregada a la ventanilla            2
+ ------PASO           15 ------
+ Cliente           15  (David Alonso) asignado a la ventanilla            3
+ Imagen           15  agregada a la ventanilla            3
+ ------PASO           16 ------
+ Cliente           16  (Carlos Gutierz) asignado a la ventanilla            1
+ Imagen           16  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Andrea Alonso) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Pedro Gutierz) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (David Gutierz) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Oscar Molina) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Sandra Martin) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente           10  (Raquel Silva) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente           11  (Raquel Ruiz) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO           12 ------
+ Cliente           12  (Raquel Molina) asignado a la ventanilla            3
+ Imagen           12  agregada a la ventanilla            3
+ ------PASO           13 ------
+ Cliente           13  (Elena Torres) asignado a la ventanilla            1
+ Imagen           13  agregada a la ventanilla            1
+ ------PASO           14 ------
+ Cliente           14  (Carlos Molina) asignado a la ventanilla            2
+ Imagen           14  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Marina Sanchez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Carmen Sanchez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Elena Fernan) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Natalia Gutierz) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Luisa Diaz) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente           10  (Elena Silva) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente           11  (Carmen Alonso) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Sergio Nunez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Ana Gutierz) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Mario Nunez) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Mario Silva) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Laura Martin) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente           10  (Sergio Gomez) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente           11  (Luisa Ruiz) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO           12 ------
+ Cliente           12  (Javier Martin) asignado a la ventanilla            3
+ Imagen           12  agregada a la ventanilla            3
+ ------PASO           13 ------
+ Cliente           13  (Mario Lopez) asignado a la ventanilla            1
+ Imagen           13  agregada a la ventanilla            1
+ ------PASO           14 ------
+ Cliente           14  (Marina Lopez) asignado a la ventanilla            2
+ Imagen           14  agregada a la ventanilla            2
+ ------PASO           15 ------
+ Cliente           15  (Carmen Romero) asignado a la ventanilla            3
+ Imagen           15  agregada a la ventanilla            3
+ ------PASO           16 ------
+ Cliente           16  (Miguel Gomez) asignado a la ventanilla            1
+ Imagen           16  agregada a la ventanilla            1
+ ------PASO           17 ------
+ Cliente           17  (Carlos Torres) asignado a la ventanilla            2
+ Imagen           17  agregada a la ventanilla            2
+ ------PASO           18 ------
+ Cliente           18  (Javier Silva) asignado a la ventanilla            3
+ Imagen           18  agregada a la ventanilla            3
+ ------PASO           19 ------
+ Cliente           19  (Sandra Diaz) asignado a la ventanilla            1
+ Imagen           19  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Oscar Nunez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Sergio Gomez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Pablo Perez) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (David Diaz) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            9 ------
+ Cliente            9  (Oscar Alonso) asignado a la ventanilla            3
+ Imagen            9  agregada a la ventanilla            3
+ ------PASO           10 ------
+ Cliente           10  (Miguel Romero) asignado a la ventanilla            1
+ Imagen           10  agregada a la ventanilla            1
+ ------PASO           11 ------
+ Cliente           11  (Javier Martin) asignado a la ventanilla            2
+ Imagen           11  agregada a la ventanilla            2
+ ------PASO           12 ------
+ Cliente           12  (Miguel Martin) asignado a la ventanilla            3
+ Imagen           12  agregada a la ventanilla            3
+ ------PASO           13 ------
+ Cliente           13  (Sandra Silva) asignado a la ventanilla            1
+ Imagen           13  agregada a la ventanilla            1
+ ------PASO           14 ------
+ Cliente           14  (Pablo Gomez) asignado a la ventanilla            2
+ Imagen           14  agregada a la ventanilla            2
+ ------PASO           15 ------
+ Cliente           15  (Ana Jimenez) asignado a la ventanilla            3
+ Imagen           15  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Mario Lopez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Sergio Jimenez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Raquel Garcia) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Elena Nunez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Mario Torres) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Carmen Fernan) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Mario Romero) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Ana Serrano) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Oscar Paz) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Sergio Jimenez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
