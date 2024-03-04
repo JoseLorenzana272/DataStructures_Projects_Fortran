@@ -1,0 +1,11 @@
+digraph G {
+    rankdir=LR;
+    Ventanilla1 [label="Ventanilla 
+1\\nImágenes: 13"];
+    Ventanilla1 -> Ventanilla2;
+    Ventanilla2 [label="Ventanilla 
+2\\nImágenes: 8"];
+    Ventanilla2 -> Ventanilla3;
+    Ventanilla3 [label="Ventanilla 
+3\\nImágenes: 2"];
+}

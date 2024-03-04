@@ -44,7 +44,7 @@ character(len=20) :: apellidos(20) = ['Garcia ', 'Martin ', 'Lopez  ', 'Fernan '
     
 
     do
-        print *, 'MENU:'
+        print *, 'MENU :D:'
         print *, '1. Carga masiva de clientes'
         print *, '2. Cantidad de ventanillas'
         print *, '3. Ejecutar paso'
@@ -160,6 +160,7 @@ character(len=20) :: apellidos(20) = ['Garcia ', 'Martin ', 'Lopez  ', 'Fernan '
         case (4)
             print *, 'Ha seleccionado la opcion 4: Estado en memoria de las estructuras.'
             call lista_clientes%graficar('lista.dot')
+            call ventanillas%graficar_ventanillas()
             call clientes_espera%graficar_clientes_espera()
         case (5)
             print *, 'Ha seleccionado la opcion 5: Reportes.'

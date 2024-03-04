@@ -15,7 +15,7 @@ module image_stack_module
         procedure :: pop
         procedure :: peek
         procedure :: init_stack
-        !procedure :: get_size
+        procedure :: get_size
     end type image_stack
 
 contains
@@ -66,10 +66,20 @@ contains
 
     !DE PRUEBA
 
-    !integer function get_size(self)
-    !class(image_stack), intent(in) :: self
-    !integer :: size
-    !get_size = self%size
-    !end function get_size
+    integer function get_size(self)
+    class(image_stack), intent(in) :: self
+    type(image_node), pointer :: current
+    integer :: count
+
+    count = 0
+    current => self%top
+    do while (associated(current))
+        count = count + 1
+        current => current%next
+    end do
+
+    get_size = count
+end function get_size
+
 
 end module image_stack_module

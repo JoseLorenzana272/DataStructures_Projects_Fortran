@@ -1,10 +1,24 @@
  digraph Pila {
      node [shape=box, style=filled, color=blue, fillcolor=pink];
-     "Node           1 " [label="Natalia Calderon"];
+     "Node           1 " [label="Ana Martinez"];
      "Node           1 " -> "Node           2 ";
-     "Node           2 " [label="Miguel Gomez"];
+     "Node           2 " [label="Diego Fernandez"];
      "Node           2 " -> "Node           3 ";
-     "Node           3 " [label="Ruben Gomez"];
+     "Node           3 " [label="Sofia Ramirez"];
      "Node           3 " -> "Node           4 ";
-     "Node           4 " [label="Pedro Torres"];
+     "Node           4 " [label="Elena Gonzalez"];
+     "Node           4 " -> "Node           5 ";
+     "Node           5 " [label="Antonio Jimenez"];
+     "Node           5 " -> "Node           6 ";
+     "Node           6 " [label="Andrea Perez"];
+     "Node           6 " -> "Node           7 ";
+     "Node           7 " [label="Luisa Diaz"];
+     "Node           7 " -> "Node           8 ";
+     "Node           8 " [label="Raquel Torres"];
+     "Node           8 " -> "Node           9 ";
+     "Node           9 " [label="Andrea Fernan"];
+     "Node           9 " -> "Node          10 ";
+     "Node          10 " [label="Sandra Paz"];
+     "Node          10 " -> "Node          11 ";
+     "Node          11 " [label="Andrea Perez"];
  }

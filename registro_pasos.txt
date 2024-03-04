@@ -671,3 +671,144 @@
  ------PASO            6 ------
  Cliente            6  (Sergio Jimenez) asignado a la ventanilla            3
  Imagen            6  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Andres Lopez v2) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Juan Perez) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Luis Higueros) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Natalia Calderon) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Laura Rodriguez) asignado a la ventanilla            4
+ Imagen            4  agregada a la ventanilla            4
+ ------PASO            5 ------
+ Cliente            5  (Pedro Sanchez) asignado a la ventanilla            1
+ Imagen            5  agregada a la ventanilla            1
+ ------PASO            6 ------
+ Cliente            6  (Ana Martinez) asignado a la ventanilla            2
+ Imagen            6  agregada a la ventanilla            2
+ ------PASO            7 ------
+ Cliente            7  (Diego Fernandez) asignado a la ventanilla            3
+ Imagen            7  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Laura Rodriguez) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Laura Rodriguez) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Laura Rodriguez) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Pedro Sanchez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Ana Martinez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Diego Fernandez) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            8 ------
+ Cliente            8  (Sofia Ramirez) asignado a la ventanilla            2
+ Imagen            8  agregada a la ventanilla            2
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Laura Rodriguez) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Pedro Sanchez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2
+ ------PASO            6 ------
+ Cliente            6  (Ana Martinez) asignado a la ventanilla            3
+ Imagen            6  agregada a la ventanilla            3
+ ------PASO            7 ------
+ Cliente            7  (Diego Fernandez) asignado a la ventanilla            1
+ Imagen            7  agregada a la ventanilla            1
+ ------PASO            1 ------
+ Cliente            1  (Juan Perez) asignado a la ventanilla            1
+ Imagen            1  agregada a la ventanilla            1
+ ------PASO            2 ------
+ Cliente            2  (Maria Garcia) asignado a la ventanilla            2
+ Imagen            2  agregada a la ventanilla            2
+ ------PASO            3 ------
+ Cliente            3  (Carlos Lopez) asignado a la ventanilla            3
+ Imagen            3  agregada a la ventanilla            3
+ ------PASO            4 ------
+ Cliente            4  (Laura Rodriguez) asignado a la ventanilla            1
+ Imagen            4  agregada a la ventanilla            1
+ ------PASO            5 ------
+ Cliente            5  (Pedro Sanchez) asignado a la ventanilla            2
+ Imagen            5  agregada a la ventanilla            2

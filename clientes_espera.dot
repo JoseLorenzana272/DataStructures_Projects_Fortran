@@ -3,19 +3,31 @@ digraph G {
     node [shape=record];
     node0 [label="
 ID: 1\\n
-Nombre: Andres Lopez v2\\n
-Imágenes grandes: 2\\n
-Imágenes pequeñas: 1"];
+Nombre: Juan Perez\\n
+Imágenes grandes: 1\\n
+Imágenes pequeñas: 3"];
     node1 [label="
 ID: 2\\n
-Nombre: Juan Perez\\n
-Imágenes grandes: 0\\n
-Imágenes pequeñas: 3"];
+Nombre: Maria Garcia\\n
+Imágenes grandes: 2\\n
+Imágenes pequeñas: 2"];
     node0 -> node1;
     node2 [label="
 ID: 3\\n
-Nombre: Luis Higueros\\n
+Nombre: Carlos Lopez\\n
 Imágenes grandes: 1\\n
-Imágenes pequeñas: 2"];
+Imágenes pequeñas: 1"];
     node1 -> node2;
+    node3 [label="
+ID: 4\\n
+Nombre: Laura Rodriguez\\n
+Imágenes grandes: 1\\n
+Imágenes pequeñas: 3"];
+    node2 -> node3;
+    node4 [label="
+ID: 5\\n
+Nombre: Pedro Sanchez\\n
+Imágenes grandes: 2\\n
+Imágenes pequeñas: 2"];
+    node3 -> node4;
 }

@@ -20,6 +20,7 @@ module lista_ventanillas_module
         procedure :: print_ventanillas
         procedure :: asignar_ventanilla
         procedure :: crear_ventanillas
+        procedure :: graficar_ventanillas
         !procedure :: append_image
         !procedure :: agregar_imagenes
     end type lista_ventanillas
@@ -153,6 +154,50 @@ end subroutine append_ventanilla
     !        if (current == self%head) exit
     !    end do
     !end subroutine agregar_imagenes
+    
+    subroutine graficar_ventanillas(self)
+        class(lista_ventanillas), intent(in) :: self
+        type(nodo_ventanilla), pointer :: current
+        character(len=100) :: filename
+        integer :: unit_number, iostat, ierr
+    
+        ! Abrir un archivo para escribir el código de Graphviz
+        filename = 'ventanillas.dot'
+        open(newunit=unit_number, file=filename, status='replace', action='write', iostat=iostat)
+    
+        if (iostat /= 0) then
+            print *, 'Error al abrir el archivo ', filename
+            return
+        end if
+    
+        ! Escribir el inicio del código de Graphviz
+        write(unit_number, '(a)') 'digraph G {'
+        write(unit_number, '(a)') '    rankdir=LR;'
+    
+        ! Recorrer la lista de ventanillas y escribir cada nodo y arista
+        current => self%head
+        do while (associated(current))
+            write(unit_number, '(a, i0, a)') '    Ventanilla', current%id, ' [label="Ventanilla '
+            write(unit_number, '(i0, a, i0, a)') current%id, '\\nImágenes: ', current%imagenes%get_size(), '"];'
+            if (associated(current%next)) then
+                write(unit_number, '(a, i0, a, i0, a)') '    Ventanilla', current%id, ' -> Ventanilla', current%next%id, ';'
+            end if
+            current => current%next
+        end do
+    
+        ! Escribir el final del código de Graphviz
+        write(unit_number, '(a)') '}'
+    
+        ! Cerrar el archivo
+        close(unit_number)
+    
+        ! Llamar a Graphviz para generar el gráfico
+        call execute_command_line('dot -Tpng ' // trim(filename) // ' -o ventanillas.png', exitstat=ierr)
+        if (ierr /= 0) then
+            print *, 'Error al ejecutar Graphviz'
+        end if
+    end subroutine graficar_ventanillas
+    
     
     
     

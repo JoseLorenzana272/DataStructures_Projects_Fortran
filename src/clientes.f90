@@ -459,36 +459,33 @@ end subroutine top_clientes_img_peque
 subroutine graficar_tops_clientes(this, filename)
     class(linked_list), intent(in) :: this
     character(len=*), intent(in) :: filename
-
+    
     integer :: unit
-    type(node), pointer :: current
-    integer :: count
 
+    
     ! Abrir el archivo DOT
     open(unit, file=filename, status='replace')
-    write(unit, *) 'digraph Tops {'
-    write(unit, *) '    node [shape=box, style=filled, color=blue, fillcolor=green];' ! Aplicar atributos a todos los nodos
-    ! Escribir nodos y conexiones
-    current => this%head
-    count = 0
-    do while (associated(current))
-        count = count + 1
-        write(unit, *) '    "Node', count, '" [label="', current%name, '"];'
-        if (associated(current%next)) then
-            write(unit, *) '    "Node', count, '" -> "Node', count+1, '";'
-        end if
-        current => current%next
-    end do 
+    write(unit, *) 'digraph TopClientes {'
+    write(unit, *) '    node [shape=box, style=filled, color=blue, fillcolor=pink];' ! Aplicar atributos a todos los nodos
+    
+    ! Obtener top clientes con más imágenes grandes
+    call this%top_clientes_img_grande()
+    print *, 'Graphviz file generated: ', trim(adjustl(filename)) // '_top_clientes_img_grande.png'
+
+    ! Obtener top clientes con menos imágenes pequeñas
+    call this%top_clientes_img_peque()
+    print *, 'Graphviz file generated: ', trim(adjustl(filename)) // '_top_clientes_img_peque.png'
 
     ! Cerrar el archivo DOT
     write(unit, *) '}'
     close(unit)
-
+    
     ! Generar el archivo PNG utilizando Graphviz
     call system('dot -Tpng ' // trim(filename) // ' -o ' // trim(adjustl(filename)) // '.png')
 
     print *, 'Graphviz file generated: ', trim(adjustl(filename)) // '.png'
 end subroutine graficar_tops_clientes
+
 
     
 end module linked_list_m
