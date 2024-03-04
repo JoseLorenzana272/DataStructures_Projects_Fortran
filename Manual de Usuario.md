@@ -6,7 +6,7 @@ Bienvenido al sistema de simulación para "Pixel Print Studio". Este manual prop
 
 ## 2. Instalación
 
-El sistema de simulación viene preinstalado y listo para usar. No se requiere ninguna instalación adicional.
+El sistema de simulación viene preinstalado y listo para usar. No se requiere ninguna instalación adicional. (Si se usará el código fuente es necesaria la instalación de fortran con su compilador y las herramientas necesarias para poder leer archivos .json y para poder graficar.)
 
 ## 3. Interfaz de Usuario
 
@@ -21,6 +21,37 @@ El sistema ofrece las siguientes funcionalidades principales:
 Comando: `cargar_clientes archivo.json`
 
 Descripción: Permite cargar clientes desde un archivo JSON para su procesamiento en el sistema.
+
+**Nota sobre el formato del archivo JSON:** El archivo JSON debe seguir un formato específico para que el sistema pueda leerlo correctamente. Cada cliente debe tener los siguientes campos: `id`, `nombre`, `img_g` (cantidad de imágenes grandes) y `img_p` (cantidad de imágenes pequeñas). Aquí hay un ejemplo de cómo se ve el contenido del archivo JSON:
+
+```json
+[
+    {
+      "id": 1,
+      "nombre": "Andres Lopez v2",
+      "img_g": 2,
+      "img_p": 1 
+    },
+    {
+      "id": 2,
+      "nombre": "Juan Perez",
+      "img_g": 0,
+      "img_p": 3 
+    },
+    {
+      "id": 3,
+      "nombre": "Luis Higueros",
+      "img_g": 1,
+      "img_p": 2 
+    },
+    {
+      "id": 4,
+      "nombre": "Natalia Calderon",
+      "img_g": 5,
+      "img_p": 4 
+    }
+]
+```
 
 ### 4.2. Ejecución de Pasos
 
