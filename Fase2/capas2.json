@@ -1,0 +1,62 @@
+[
+    {
+        "id_capa": 1,
+        "pixeles": [
+            {"fila": 25, "columna": 20, "color": "#FF0000"} 
+        ]
+    },
+    {
+        "id_capa": 2,
+        "pixeles": [
+            {"fila": 20, "columna": 20, "color": "#000000"},
+            {"fila": 21, "columna": 19, "color": "#000000"},
+            {"fila": 21, "columna": 21, "color": "#000000"},
+            {"fila": 22, "columna": 18, "color": "#000000"},
+            {"fila": 22, "columna": 22, "color": "#000000"},
+            {"fila": 23, "columna": 17, "color": "#000000"},
+            {"fila": 23, "columna": 23, "color": "#000000"},
+            {"fila": 24, "columna": 17, "color": "#000000"},
+            {"fila": 24, "columna": 23, "color": "#000000"},
+            {"fila": 25, "columna": 18, "color": "#000000"},
+            {"fila": 25, "columna": 22, "color": "#000000"},
+            {"fila": 26, "columna": 19, "color": "#000000"},
+            {"fila": 26, "columna": 21, "color": "#000000"},
+            {"fila": 27, "columna": 20, "color": "#000000"}
+        ]
+    },
+    {
+        "id_capa": 3,
+        "pixeles": [
+            {"fila": 21, "columna": 20, "color": "#FFA500"},
+            {"fila": 22, "columna": 19, "color": "#FFA500"},
+            {"fila": 22, "columna": 20, "color": "#FFA500"},
+            {"fila": 22, "columna": 21, "color": "#FFA500"},
+            {"fila": 23, "columna": 18, "color": "#FFA500"},
+            {"fila": 23, "columna": 19, "color": "#FFA500"},
+            {"fila": 23, "columna": 20, "color": "#FFA500"},
+            {"fila": 23, "columna": 21, "color": "#FFA500"},
+            {"fila": 23, "columna": 22, "color": "#FFA500"},
+            {"fila": 24, "columna": 18, "color": "#FFA500"},
+            {"fila": 24, "columna": 19, "color": "#FFA500"},
+            {"fila": 24, "columna": 20, "color": "#FFA500"},
+            {"fila": 24, "columna": 21, "color": "#FFA500"},
+            {"fila": 24, "columna": 22, "color": "#FFA500"},
+            {"fila": 25, "columna": 19, "color": "#FFA500"},
+            {"fila": 25, "columna": 20, "color": "#FFA500"},
+            {"fila": 25, "columna": 21, "color": "#FFA500"},
+            {"fila": 26, "columna": 19, "color": "#FFA500"},
+            {"fila": 26, "columna": 20, "color": "#FFA500"},
+            {"fila": 26, "columna": 21, "color": "#FFA500"}
+        ]
+    },
+    {
+        "id_capa": 4,
+        "pixeles": [
+            {"fila": 22, "columna": 20, "color": "#FF0000"},
+            {"fila": 21, "columna": 19, "color": "#FF0000"},
+            {"fila": 21, "columna": 20, "color": "#FF0000"},
+            {"fila": 21, "columna": 21, "color": "#FF0000"},
+            {"fila": 20, "columna": 20, "color": "#FF0000"}
+        ]
+    }
+]

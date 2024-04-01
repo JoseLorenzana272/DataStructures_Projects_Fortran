@@ -1,0 +1,10 @@
+graph Node{
+node [shape=box];
+"Cell     2" [label="    2"];
+"Cell     2" -- "Cell     1";
+"Cell     2" -- "Cell     3";
+"Cell     1" [label="    1"];
+"Cell     3" [label="    3"];
+"Cell     3" -- "Cell     4";
+"Cell     4" [label="    4"];
+}

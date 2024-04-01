@@ -1,0 +1,57 @@
+[
+    {
+    "dpi":"1234567890123",
+    "nombre_cliente":"AUX EDD",
+    "password":"edd1s2022"
+    },
+    {
+    "dpi":"6745567890123",
+    "nombre_cliente": "cliente 2", 
+    "password": "edd1s2022"
+    },
+    {
+        "dpi": "9876543210123",
+        "nombre_cliente": "jose",
+        "password": "123"
+    },
+    {
+        "dpi": "1357924680123",
+        "nombre_cliente": "Cliente 4",
+        "password": "edd1s2022"
+    },
+    {
+        "dpi": "7896541215452",
+        "nombre_cliente": "javier",
+        "password": "321"
+    },
+    {
+        "dpi": "2468135790123",
+        "nombre_cliente": "Cliente 5",
+        "password": "edd1s2022"
+    },
+    {
+        "dpi": "3692581470123",
+        "nombre_cliente": "Cliente 6",
+        "password": "edd1s2022"
+    },
+    {
+        "dpi": "44454545454512",
+        "nombre_cliente": "vegeta",
+        "password": "insecto"
+    },
+    {
+        "dpi": "4807531690123",
+        "nombre_cliente": "Cliente 7",
+        "password": "edd1s2022"
+    },
+    {
+        "dpi": "5926814730123",
+        "nombre_cliente": "Cliente 8",
+        "password": "edd1s2022"
+    },
+    {
+        "dpi": "6182437590123",
+        "nombre_cliente": "Cliente 9",
+        "password": "edd1s2022"
+    }
+]
