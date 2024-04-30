@@ -15,7 +15,7 @@ module hash_table
         contains
         procedure :: insert
         procedure :: print
-        procedure :: search
+        procedure :: search_tecnico
         procedure, private :: solve_collision
         procedure :: grafico
     end type HashTable
@@ -39,7 +39,7 @@ contains
 
         ! If the position is already occupied, solve the collision
         if(self%array(pos)%key /= -1 .and. self%array(pos)%key /= key) then
-            call self%solve_collision(pos)
+            call self%solve_collision(key, pos)
         end if
 
         ! Store the key in the table
@@ -81,13 +81,24 @@ contains
         end do
     end function rehashing
 
-    subroutine solve_collision(self, pos)
+    subroutine solve_collision(self, key, pos)
         class(HashTable), intent(inout) :: self
+        integer(8), intent(in) :: key
         integer(8), intent(inout) :: pos
-        ! Hash function h'(k)
-        do while(self%array(pos)%key /= -1)
-            pos = pos + 1
-            pos = mod(pos, table_size)
+        integer(8) :: i, step, new_pos
+    
+        i = 1  ! Contador de colisiones
+        ! Continúa buscando una nueva posición mientras la posición actual esté ocupada y no sea el DPI correcto
+        do while (self%array(pos)%key /= -1 .and. self%array(pos)%key /= key)
+            ! Calcula el paso usando la fórmula de doble dispersión
+            step = mod(key, 7) + 1
+            new_pos = mod(pos + step * i, table_size)
+            ! Si encuentra una posición libre, sale del bucle
+            if (self%array(new_pos)%key == -1) then
+                pos = new_pos
+                exit
+            endif
+            i = i + 1  ! Incrementa el contador de colisiones
         end do
     end subroutine solve_collision
 
@@ -99,18 +110,6 @@ contains
         ! Multiplicative hashing
         pos = mod(key,table_size)
     end function get_position
-
-    subroutine search(self, key)
-        class(HashTable), intent(inout) :: self
-        integer(8), intent(in) :: key
-        integer :: pos
-
-        pos = get_position(key)
-        ! If the key is not in the table
-        !
-        !
-        print '(a i0 a i0)' , "Position: ", pos, " Key: ", self%array(pos)%key
-    end subroutine search
     
 
     subroutine print(self)
@@ -119,9 +118,15 @@ contains
         print '(a, i0)', "Size on table: ", table_size
         print '(a, i0)', "Elements on table: ", self%elements
         do i = 0, size(self%array) - 1
-            print '(i0, a, i0, a, a)',  i, " dpi: ", self%array(i)%key, " Nombre: ", self%array(i)%nombre
+            if (self%array(i)%key /= -1) then
+                print '(i0, a, i0, a, a, a, a, a, a, a, i0)',  i, " DPI: ", self%array(i)%key, &
+                " Nombre: ", self%array(i)%nombre, &
+                " Apellido: ", self%array(i)%apellido, " Direccion: ", self%array(i)%direccion, &
+                " Telefono: ", self%array(i)%telefono
+            end if
         end do
     end subroutine print
+    
 
     subroutine grafico(self, filename)
         class(HashTable), intent(inout) :: self
@@ -168,6 +173,24 @@ contains
         call system('dot -Tpng ' // trim(filename) // ' -o ' // trim(adjustl(filename)) // '.png')
         call system('start ' // trim(adjustl(filename)) // '.png')
     end subroutine grafico
+
+    subroutine search_tecnico(self, key)
+        class(HashTable), intent(inout) :: self
+        integer(8), intent(in) :: key
+        integer :: pos
+
+        pos = get_position(key)
+        ! If the key is not in the table
+        print *, "----Desplegando Informacion del Tecnico----"
+        print '(a, i0)', " Posicion: ", pos
+        print '(a, i0)', " DPI: ", self%array(pos)%key
+        print '(a, a)', " Nombre: ", self%array(pos)%nombre
+        print '(a, a)', " Apellido: ", self%array(pos)%apellido
+        print '(a, a)', " Direccion: ", self%array(pos)%direccion
+        print '(a, i0)', " Telefono: ", self%array(pos)%telefono
+        print *, "--------------------------------------------"
+
+    end subroutine search_tecnico
     
     
 end module hash_table

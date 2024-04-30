@@ -26,6 +26,7 @@ module Avl_Tree
         procedure :: searchNode
         procedure :: searchNode_hash
         procedure :: searchNode_listar
+        procedure :: searchBranch
 
     end type Tree_t
 
@@ -269,7 +270,7 @@ module Avl_Tree
             return
         end if
     
-        if (currentNode%id == id) then
+        if (currentNode%id == id .and. currentNode%password == trim(contra)) then
             foundNode => currentNode
             return
         elseif (id < currentNode%id) then
@@ -366,5 +367,44 @@ module Avl_Tree
             foundNode => searchNodeRecursive_listar(currentNode%Right, id)
         end if
     end function searchNodeRecursive_listar
+
+    function searchBranch(tree, id) result(foundNode)
+        class(Tree_t), intent(inout) :: tree
+        integer, intent(in) :: id
+        type(Node_t), pointer :: foundNode
+    
+        if (.not. associated(tree%root)) then
+            print *, "El árbol está vacío."
+            return
+        end if
+    
+        foundNode => searchRecursiveBranch(tree%root, id)
+    
+        if (associated(foundNode)) then
+            print *, "El id ", foundNode%id, " se encontró, con la contraseña: ", foundNode%password           
+            
+        else
+            print *, "El valor no se encontro", id
+        end if
+    end function searchBranch
+    
+    recursive function searchRecursiveBranch(currentNode, id) result(foundNode)
+        type(Node_t), pointer :: currentNode, foundNode
+        integer, intent(in) :: id
+    
+        if (.not. associated(currentNode)) then
+            foundNode => null()
+            return
+        end if
+    
+        if (currentNode%id == id) then
+            foundNode => currentNode
+            return
+        elseif (id < currentNode%id) then
+            foundNode => searchRecursiveBranch(currentNode%Left, id)
+        else
+            foundNode => searchRecursiveBranch(currentNode%Right, id)
+        end if
+    end function searchRecursiveBranch
 
 end module Avl_Tree

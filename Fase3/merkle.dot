@@ -1,0 +1,24 @@
+digraph Merkle_tree {
+node [shape=record, fontname=Arial, fontsize=12];
+3 [label="8A9905C681659DAF7997A35419792711E2C5F2BC4A44820188DB18B6D1D7639E"];
+3 -> 4;
+3 -> 5;
+4 [label="20A568617FE844C6EECB1B0CBB6F54E276BEA59FAF326831B98EFE00B9E136C5"];
+1 [label=<<TABLE><TR>
+<TD>id_origin:         -1</TD>
+<TD>address_origin: null</TD></TR>
+<TR><TD>id_destination:         -1</TD>
+<TD>address_destination: null</TD></TR>
+<TR><TD>cost_between:         -1</TD></TR>
+</TABLE>>];
+4 -> 1;
+5 [label="20A568617FE844C6EECB1B0CBB6F54E276BEA59FAF326831B98EFE00B9E136C5"];
+2 [label=<<TABLE><TR>
+<TD>id_origin:         -1</TD>
+<TD>address_origin: null</TD></TR>
+<TR><TD>id_destination:         -1</TD>
+<TD>address_destination: null</TD></TR>
+<TR><TD>cost_between:         -1</TD></TR>
+</TABLE>>];
+5 -> 2;
+}
